@@ -1,0 +1,39 @@
+.design-place-outline.out.active-path {
+  stroke: #000000;
+  stroke-miterlimit: 10;
+}
+
+.design-place-outline.in.active-path {
+  stroke: #000000;
+  stroke-miterlimit: 10;
+  stroke-dasharray: 3;
+}
+
+.l-st12,
+.l-st13 {
+  fill: none;
+}
+
+.r-st12,
+.r-st13 {
+  fill: none;
+}
+
+.b-st8,
+.b-st9 {
+  fill: none;
+}
+
+.f-st10 {
+  opacity: 0.5;
+  fill: none;
+  stroke: #845757;
+  stroke-width: 1.5;
+  stroke-miterlimit: 10;
+}
+
+.f-st11,
+.f-st12,
+.f-st13 {
+  fill: none;
+}

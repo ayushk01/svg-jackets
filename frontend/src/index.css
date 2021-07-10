@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: "Aktuelle";
+  src: local("Aktuelle"), url(./fonts/Aktuelle.woff) format("woff");
+}
+@font-face {
+  font-family: "Amarillo";
+  src: local("Amarillo"), url(./fonts/Amarillo.woff) format("woff");
+}
+@font-face {
+  font-family: "Arial-Black";
+  src: local("Arial-Black"), url(./fonts/Arial-Black.woff) format("woff");
+}
+@font-face {
+  font-family: "Arial-BoldMT";
+  src: local("Arial-BoldMT"), url(./fonts/Arial-BoldMT.woff) format("woff");
+}
+@font-face {
+  font-family: "ArialNarrow-Bold";
+  src: local("ArialNarrow-Bold"),
+    url(./fonts/ArialNarrow-Bold.woff) format("woff");
+}
+@font-face {
+  font-family: "ArialRoundedMTBold";
+  src: local("ArialRoundedMTBold"),
+    url(./fonts/ArialRoundedMTBold.woff) format("woff");
+}
+@font-face {
+  font-family: "Athletic";
+  src: local("Athletic"), url(./fonts/Athletic.woff) format("woff");
+}
+@font-face {
+  font-family: "BrannbollFPERSONALUSEONLY";
+  src: local("BrannbollFPERSONALUSEONLY"),
+    url(./fonts/BrannbollFPERSONALUSEONLY.woff) format("woff");
+}
+@font-face {
+  font-family: "BullettoKilla";
+  src: local("BullettoKilla"), url(./fonts/BullettoKilla.woff) format("woff");
+}
+@font-face {
+  font-family: "CollegeBold";
+  src: local("CollegeBold"), url(./fonts/CollegeBold.woff) format("woff");
+}
+@font-face {
+  font-family: "CollegiateBlackFLF";
+  src: local("CollegiateBlackFLF"),
+    url(./fonts/CollegiateBlackFLF.woff) format("woff");
+}
+@font-face {
+  font-family: "CollegiateBorderFLF";
+  src: local("CollegiateBorderFLF"),
+    url(./fonts/CollegiateBorderFLF.woff) format("woff");
+}
+@font-face {
+  font-family: "CollegiateFLF";
+  src: local("CollegiateFLF"), url(./fonts/CollegiateFLF.woff) format("woff");
+}
+@font-face {
+  font-family: "CollegiateInsideFLF";
+  src: local("CollegiateInsideFLF"),
+    url(./fonts/CollegiateInsideFLF.woff) format("woff");
+}
+@font-face {
+  font-family: "CollegiateOutlineFLF";
+  src: local("CollegiateOutlineFLF"),
+    url(./fonts/CollegiateOutlineFLF.woff) format("woff");
+}
+@font-face {
+  font-family: "KrinkesRegularPERSONALUSE";
+  src: local("KrinkesRegularPERSONALUSE"),
+    url(./fonts/KrinkesRegularPERSONALUSE.woff) format("woff");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: local("Montserrat-Regular"),
+    url(./fonts/Montserrat-Regular.woff) format("woff");
+}
+@font-face {
+  font-family: "SignPainterHouseScript";
+  src: local("SignPainterHouseScript"),
+    url(./fonts/SignPainterHouseScript.woff) format("woff");
+}
+@font-face {
+  font-family: "SuperstarM54";
+  src: local("SuperstarM54"), url(./fonts/SuperstarM54.woff) format("woff");
+}
+@font-face {
+  font-family: "TKDHomeRunScript-roman";
+  src: local("TKDHomeRunScript-roman"),
+    url(./fonts/TKDHomeRunScript-roman.woff) format("woff");
+}
+@font-face {
+  font-family: "Typewriter-Serial-Bold";
+  src: local("Typewriter-Serial-Bold"),
+    url(./fonts/Typewriter-Serial-Bold.woff) format("woff");
+}
+@font-face {
+  font-family: "UnitedSansSemiCond-Bold";
+  src: local("UnitedSansSemiCond-Bold"),
+    url(./fonts/UnitedSansSemiCond-Bold.woff) format("woff");
+}
+@font-face {
+  font-family: "UnitedSerifSemiCond-Bold";
+  src: local("UnitedSerifSemiCond-Bold"),
+    url(./fonts/UnitedSerifSemiCond-Bold.woff) format("woff");
+}
+@font-face {
+  font-family: "UnitedSerifSemiCond-Heavy";
+  src: local("UnitedSerifSemiCond-Heavy"),
+    url(./fonts/UnitedSerifSemiCond-Heavy.woff) format("woff");
+}
+@font-face {
+  font-family: "Varsity";
+  src: local("Varsity"), url(./fonts/Varsity.woff) format("woff");
+}

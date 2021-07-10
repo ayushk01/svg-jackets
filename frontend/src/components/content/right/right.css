@@ -1,0 +1,122 @@
+.div {
+  padding: 7px;
+  width: 68px;
+  height: 68px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.borderFalse {
+  border: 1px solid lightgray;
+}
+.borderTrue {
+  border: 2px solid blue;
+}
+.div:hover {
+  border: 2px solid blue;
+}
+
+#color-view {
+  background-color: darkred;
+  color: white;
+  /* background: url("img/color.jpg") no-repeat center; */
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid white;
+}
+#color-view:hover {
+  border: 2px solid yellow;
+}
+#front-view {
+  background-color: darkred;
+  color: white;
+  /* background: url("img/front1.png") no-repeat center; */
+  font-family: "Times New Roman", Times, serif;
+}
+#back-view {
+  background-color: darkred;
+  color: white;
+  /* background: url("img/back1.png") no-repeat center; */
+  font-family: "Times New Roman", Times, serif;
+}
+#left-view {
+  background-color: darkred;
+  color: white;
+  /* background: url("img/left1.png") no-repeat center; */
+  font-family: "Times New Roman", Times, serif;
+}
+#right-view {
+  background-color: darkred;
+  color: white;
+  /* background: url("img/right-view.png") no-repeat center; */
+  font-family: "Times New Roman", Times, serif;
+}
+#inner-view {
+  background-color: darkred;
+  color: white;
+  /* background: url("img/preview.jpg") no-repeat center; */
+  font-family: "Times New Roman", Times, serif;
+  /* font-weight: bold;
+  font-size: small; */
+}
+#inner-view:hover {
+  border: 2px solid green;
+}
+
+/* ..................... maincolorbox */
+.maincolorbox {
+  width: 300px;
+  height: 50px;
+  border-radius: 2px;
+  background-color: rgb(109, 106, 106);
+  margin: 5px;
+  border: 1px solid rgb(109, 106, 106);
+  color: white;
+  user-select: none;
+  -webkit-user-select: none;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}
+/* .maincolorbox:hover {
+  border: 1px solid blue;
+} */
+
+.next {
+  background-color: black;
+  color: white;
+  height: 37px;
+  border-radius: 5px;
+}
+.next:hover {
+  color: white;
+}
+
+.again {
+  background-color: darkred;
+  color: white;
+  height: 37px;
+  border-radius: 5px;
+}
+.again:hover {
+  color: white;
+}
+
+/* ..................... inner text */
+
+.innerstyle {
+  border: none;
+  min-width: 30px;
+  background-color: white;
+  padding: 5px;
+  font-weight: bold;
+}
+
+@media (max-width: 450px) {
+  .navcontain {
+    width: 90%;
+  }
+}

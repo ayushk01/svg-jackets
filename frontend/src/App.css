@@ -1,0 +1,38 @@
+/* ................................navbar */
+.navname {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+.navlink {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  letter-spacing: 2px;
+}
+
+/*.................................content*/
+.content {
+  text-align: center;
+  margin-top: 52px;
+  background-color: #ece7e7;
+}
+
+/* ................................footer */
+.footer {
+  background-color: black;
+  text-align: center;
+}
+
+.footer-link {
+  font-weight: 600;
+  padding: 13px;
+  color: aliceblue;
+}
+.footer-line {
+  margin: 0px auto;
+}
+.footer-copy {
+  font-size: 13px;
+  font-family: "Courier New", Courier, monospace;
+  line-height: 17px;
+}
